@@ -55,7 +55,6 @@ Our talented individuals have portfolios showcasing their projects and skills. C
 
 ### 🧑‍💻 Student Portfolios
 | Student          | Portfolio                                           |
-|------------------|-----------------------------------------------------|
 | Tnsema           | [View Portfolio](https://pero-s-academy.github.io/tnsema.io/) |
 | Mloyi            | [View Portfolio](https://pero-s-academy.github.io/mloyi.io) |
 | Frikkie Delport  | [View Portfolio](https://pero-s-academy.github.io/FrikkieDelport.io) |
