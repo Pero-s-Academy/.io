@@ -53,8 +53,10 @@ Our students have developed projects demonstrating significant creativity and ex
 
 Our talented individuals have portfolios showcasing their projects and skills. Click on their names to explore their work:
 
-### 🧑‍💻 Student Portfolios
-| Student          | Portfolio                                           |
+<h2>🧑‍💻 Student Portfolios</h2>
+
+| **Student**      | **Portfolio** |
+|------------------|---------------|
 | Tnsema           | [View Portfolio](https://pero-s-academy.github.io/tnsema.io/) |
 | Mloyi            | [View Portfolio](https://pero-s-academy.github.io/mloyi.io) |
 | Frikkie Delport  | [View Portfolio](https://pero-s-academy.github.io/FrikkieDelport.io) |
@@ -64,8 +66,7 @@ Our talented individuals have portfolios showcasing their projects and skills. C
 | ThatCodeGuySA    | [View Portfolio](https://pero-s-academy.github.io/ThatCodeGuySA.io) |
 | Malcolm Mukorera | [View Portfolio](https://pero-s-academy.github.io/MalcolmMukorera.io) |
 
-
-### 🧑‍🤝‍🧑 GitHub Profiles
+<h3> 🧑‍🤝‍🧑 GitHub Profiles</h3>
 - [ThatCodeGuySA](https://github.com/ThatCodeGuySA)
 - [MSihle](https://github.com/MSihle)
 - [Malcolm Mukorera](https://github.com/MalcolmMukorera)
