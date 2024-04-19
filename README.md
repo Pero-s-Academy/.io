@@ -41,21 +41,6 @@ Our students have developed projects demonstrating significant creativity and ex
 | Financial Contributions | ![Fund](https://img.shields.io/badge/Fund-Operations-blue.svg?style=flat&logo=financial) Assist with operational costs to enhance and expand our offerings. |
 | Mentorship and Networking | ![Network](https://img.shields.io/badge/Network-Connect-purple.svg?style=flat&logo=networking) Share expertise and connect us with potential partners and opportunities. |
 
-<h2>:mailbox_with_mail: Contact Us</h2>
-
-Discuss how you can support Pero's Academy:
-- **Website:** ![Website](https://img.shields.io/badge/Web-pero.co.za-blue?style=flat-square&logo=googlechrome)
-- **GitHub:** ![GitHub](https://img.shields.io/github/followers/Pero-s-Academy?label=Follow&style=social)
-- **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-Group-blue?style=flat-square&logo=linkedin)
-
-<h1 align="center">:school: Pero's Academy</h1>
-
-<p align="center">
-  <a href="https://www.pero.co.za">
-    <img src="https://example.com/path_to_your_logo.png" alt="Pero's Academy Logo" width="200"/>
-  </a>
-</p>
-
 ## :link: Quick Links
 - [Main Website](https://www.pero.co.za)
 - [GitHub Main](https://github.com/Pero-s-Academy)
