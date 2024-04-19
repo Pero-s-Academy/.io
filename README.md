@@ -1,7 +1,7 @@
 <h1 align="center">🎓 Pero's Academy Sponsorship and Investor Profile</h1>
 
 <p align="center">
-  <img src="https://pero-s-academy.github.io/assets/your-logo-file-name.png" alt="Pero's Academy Logo" width="200"/>
+  <img src="https://github.com/Pero-s-Academy/Sponsorship-and-Investor-Profile/assets/126121348/7ef92804-44f5-483e-811e-3959628522e9" alt="Pero's Academy Logo" width="200"/>
 </p>
 
 <h2>🌟 Vision</h2>
