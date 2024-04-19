@@ -54,16 +54,17 @@ Our students have developed projects demonstrating significant creativity and ex
 Our talented individuals have portfolios showcasing their projects and skills. Click on their names to explore their work:
 
 ### 🧑‍💻 Student Portfolios
-| Student            | Portfolio                                      |
-|--------------------|------------------------------------------------|
-| Tnsema             | [View Portfolio](https://pero-s-academy.github.io/tnsema.io/) |
-| Mloyi              | [View Portfolio](https://pero-s-academy.github.io/mloyi.io) |
-| Frikkie Delport    | [View Portfolio](https://pero-s-academy.github.io/FrikkieDelport.io) |
-| Sui                | [View Portfolio](https://pero-s-academy.github.io/sui.github.io) |
-| Elliott29          | [View Portfolio](https://pero-s-academy.github.io/elliott29.io) |
-| Mw4mba             | [View Portfolio](https://pero-s-academy.github.io/Mw4mba.io) |
-| ThatCodeGuySA      | [View Portfolio](https://pero-s-academy.github.io/ThatCodeGuySA.io) |
-| Malcolm Mukorera   | [View Portfolio](https://pero-s-academy.github.io/MalcolmMukorera.io) |
+| Student          | Portfolio                                           |
+|------------------|-----------------------------------------------------|
+| Tnsema           | [View Portfolio](https://pero-s-academy.github.io/tnsema.io/) |
+| Mloyi            | [View Portfolio](https://pero-s-academy.github.io/mloyi.io) |
+| Frikkie Delport  | [View Portfolio](https://pero-s-academy.github.io/FrikkieDelport.io) |
+| Sui              | [View Portfolio](https://pero-s-academy.github.io/sui.github.io) |
+| Elliott29        | [View Portfolio](https://pero-s-academy.github.io/elliott29.io) |
+| Mw4mba           | [View Portfolio](https://pero-s-academy.github.io/Mw4mba.io) |
+| ThatCodeGuySA    | [View Portfolio](https://pero-s-academy.github.io/ThatCodeGuySA.io) |
+| Malcolm Mukorera | [View Portfolio](https://pero-s-academy.github.io/MalcolmMukorera.io) |
+
 
 ### 🧑‍🤝‍🧑 GitHub Profiles
 - [ThatCodeGuySA](https://github.com/ThatCodeGuySA)
